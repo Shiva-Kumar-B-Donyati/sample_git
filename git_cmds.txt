@@ -1,0 +1,4 @@
+git reset --hard HEAD
+git reset --merge
+
+git remote add origin <URL>
